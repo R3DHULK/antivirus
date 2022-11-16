@@ -2,6 +2,8 @@
 ## Antiviruses are became quite popular in these days. Hackers become more powerful and technologies go like they are booming. By using those tricks they can easily hopped your system. If you are not supporting any costed antivirus, let me introduce my project to you. It is free, super fast, open source with almost 100% accuracy to find viruses or any kind of malwares.  
 ##
 #
+## You Can Download [data.csv](https://github.com/R3DHULK/antivirus/releases) To Run Antivirus Cli Properly
+#
 ## 👨‍💻 Author : Sumalya Chatterjee
 #
 ## It comes with two different interfaces :
